@@ -28,7 +28,7 @@ Gem::Specification.new do |s|
   s.add_dependency 'jquery-rails',      '>= 2.0.0'
   s.add_dependency 'jquery-ui-rails',   '>= 5.0.0'
   s.add_dependency 'haml-rails',        '>= 0.3.0'
-  s.add_dependency 'sass-rails',        '>= 4.0.3'
+  s.add_dependency 'sass-rails',        '>= 3.0.3'
   s.add_dependency 'coffee-rails',      '>= 3.1.0'
   s.add_dependency 'codemirror-rails',  '>= 3.0.0'
   s.add_dependency 'bootstrap-sass',    '>= 3.2.0'
